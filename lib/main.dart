@@ -14,7 +14,7 @@ class BuboApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Bubolechka 2',
+      title: 'Raya Films',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
@@ -72,7 +72,7 @@ class _BuboHomePageState extends State<BuboHomePage> {
             bottom: 30,
             left: 30,
             width: 200,
-            child: Image.asset('assets/bubo_logo.png'),
+            child: Image.asset('assets/logo.png'),
           ),
         ],
       ),
