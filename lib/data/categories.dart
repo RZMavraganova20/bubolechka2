@@ -6,23 +6,23 @@ import '../models/bubo_category.dart';
 
 /// Original labels in german and bulgarian, english added as last value
 const labels = [
-  ["1", "Obst", "плодове", "vegetables", "ES"],
-  ["2", "Farben", "цветове", "colors"],
-  ["3", "Moebel", "мебели", "furniture"],
-  ["4", "Sachen", "дрехи", "clothes"],
-  ["5", "Spielzeug", "играчки", "toys"],
-  ["6", "Tiere", "животни", "animals"],
-  ["7", "Wilde Tiere", "диви животни", "wild animals"],
-  ["8", "Zahlen", "цифри", "digits"],
-  ["9", "Wetter", "времето", "weather"],
-  ["10", "Zu Hause", "вкъщи", "at home"],
-  ["11", "Natur", "природа", "nature"],
-  ["12", "Im Meer", "морето", "sea"],
-  ["13", "Am Strand", "на плажа", "on the beach"],
-  ["14", "Sport", "спорт", "sport"],
-  ["15", "Stadt", "град", "city"],
-  ["16", "Berufe", "професии", "professions"],
-  ["17", "Fahrzeuge", "транспрорт", "transport"]
+  ["1", "Obst", "Блъскам", "Hustle", ""],
+  ["2", "Farben", "Училище за ДИЗ", "School for GAE"],
+  ["3", "Moebel", "Аватар", "Avatar"],
+  ["4", "Sachen", "Трансилвания", "Transilvania"],
+  ["5", "Spielzeug", "Меган", "Megan"],
+  ["6", "Tiere", "Ожени се за мен", "Marry Me"],
+  ["7", "Wilde Tiere", "Пурпурни сърца", "Purple hearts"],
+  ["8", "Zahlen", "Проектът Адам", "The Adam Project"],
+  ["9", "Wetter", "Чудесен свят", "Wonderful world"],
+  ["10", "Zu Hause", "Лоши момчета", "Bad boys"],
+  ["11", "Natur", "Русо", "Blonde"],
+  ["12", "Im Meer", "Късмет", "Luck"],
+  ["13", "Am Strand", "Вавилон", "Babylon"],
+  ["14", "Sport", "Затвор 77", "Prison 77"],
+  ["15", "Stadt", "Мей", "May"],
+  ["16", "Berufe", "Бащата на булката", "Father of the bride"],
+  ["17", "Fahrzeuge", "Поканата", "The invitation"]
 ];
 
 ///
