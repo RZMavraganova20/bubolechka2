@@ -1,6 +1,6 @@
 <h1 align="center">Raya-Bubolechka2 project
 <p align="center">
-<img src="assets/l_logo.png" width="450px">
+<img src="assets/LOGOO.png" width="450px">
 </p>
 
 ## 🖥 Team
