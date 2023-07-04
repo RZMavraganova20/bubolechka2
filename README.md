@@ -29,7 +29,7 @@ Raya Mavraganova
       
  ## 📄 Documents
       
-- [Word Documentation](https://github.com/RZMavraganova20/bubolechka2/blob/main/Documentation-Raya.docx)
+- [Word Documentation](https://github.com/RZMavraganova20/bubolechka2/main/Documentation-Raya.docx)
    
 
 </p>
