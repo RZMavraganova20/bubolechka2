@@ -25,7 +25,7 @@ Raya Mavraganova
       
  ## 📋 Description
     
-*This project shows differents types of animals - animals inhabiting the earth, the sky, the water and those that live in both terrestrial and aquatic environments. There are examples of those types of animals and when you click on the photos you can see different images of the animals.-*   
+*This app shows the latest movies that are just released in the market*   
       
  ## 📄 Documents
       
@@ -39,7 +39,7 @@ Raya Mavraganova
 You can download the project by using the green "Code" button.
 
 Or by pasting the following code in your CMD:
-git clone https://github.com/LSHristova20/bubolechka2.git
+git clone https://github.com/RZMavraganova20/bubolechka2.git
 ```
 ## Thank you for using our app
 If you support and like our project, you can always share it with people on social media.
